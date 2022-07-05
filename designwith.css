@@ -1,0 +1,310 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@300;400&display=swap');
+
+
+
+*{
+    margin:0;
+    padding:0;
+}
+
+.main {
+
+    font-family: 'Fredoka', sans-serif;
+   padding-bottom: 400px;
+   margin-top: -90px;e
+   margin-left: 481px;
+   color: url(/Users/yashsawkar/Desktop/College_projects/HTML/img/blueredwhilte.png);
+}
+
+.content{
+    font-family: 'Fredoka', sans-serif;
+    padding-bottom: 400px ;
+    margin-top: 0px;
+    margin-left: -61px;
+    color: white;
+}
+
+.body{
+    margin: -300px 0px 10px 0px;
+    padding: 0px 0px 0px 0px;
+    color: white;
+
+}
+
+.Photo img{
+    margin: -696px 0px 88px 952px;
+    height: 500px;
+    width: 400px;
+}
+
+.container{
+    height: 100vh;
+    width: 100%;
+    background-image: url();
+    background-position: center;
+    background-size: cover;
+    padding-left: 5%;
+    padding-right: 5%;
+    box-sizing: border-box;
+    position: relative;
+    font-family: 'Fredoka', sans-serif;
+    font-size: 40px;
+    padding: 10%;
+}
+.video
+{
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    right: 0;
+    bottom: 0;
+    position: absolute;
+    z-index: -69696969;
+}
+
+.sidebar{
+    background-color: rgba(15, 15, 15, 0.397);
+    width: 450px;
+    padding-top: 10px;
+    margin-bottom: 10px;
+    margin: -802px;
+    padding: 0px;
+    margin-left: 1006px;
+    margin-right: 0px;
+    margin-top: -600px;
+    border-radius: 7%;
+    height: 216px;
+    text-align: center;
+    color: rgb(27, 82, 2);
+}
+
+.contact_information{
+    padding: -38px;
+    margin-top: 80px;
+    margin-bottom: 50px;
+    margin-left: 0%;
+    margin-right: 0px;
+    margin: -67px;
+}
+
+.sidebar nav{
+    text-decoration: none;
+    color: rgba(15, 15, 15, 0.397);
+}
+
+.sidebar nav li a {
+    text-decoration: none;
+    color: aqua;
+}
+
+.sidebar:hover{
+background-color: rgba(245, 11, 11, 0.267);
+color: rgba(10, 10, 10, 0.342);
+}
+
+
+.contained{
+    height: 100vh;
+    width: 100%;
+    background-image: url(/Users/yashsawkar/Desktop/College_projects/HTML/img/632787.jpg);
+    background-position: center;
+    background-size: cover;
+    padding-left: 5%;
+    padding-right: 5%;
+    box-sizing: border-box;
+    position: relative;
+    font-family: 'Fredoka', sans-serif;
+    font-size: 40px;
+    padding: 10%;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 0%;
+    margin-right: 0px;
+    margin: 0px;
+}
+
+.containedint{
+    height: 100vh;
+    width: 100%;
+    background-image: url(/Users/yashsawkar/Desktop/College_projects/HTML/img/1193298.jpg);
+    background-position: center;
+    background-size: cover;
+    padding-left: 5%;
+    padding-right: 5%;
+    box-sizing: border-box;
+    position: relative;
+    font-family: 'Fredoka', sans-serif;
+    font-size: 40px;
+    padding: 10%;
+}
+
+.containedskil{
+    height: 100vh;
+    width: 100%;
+    background-image: url(/Users/yashsawkar/Desktop/College_projects/HTML/img/701802.jpg);
+    background-position: center;
+    background-size: cover;
+    padding-left: 5%;
+    padding-right: 5%;
+    box-sizing: border-box;
+    position: relative;
+    font-family: 'Fredoka', sans-serif;
+    font-size: 40px;
+    padding: 10%;
+}
+
+.containedre{
+    height: 100vh;
+    width: 100%;
+    background-image: url(/Users/yashsawkar/Desktop/College_projects/HTML/img/952285.jpg);
+    background-position: center;
+    background-size: cover;
+    padding-left: 5%;
+    padding-right: 5%;
+    box-sizing: border-box;
+    position: relative;
+    font-family: 'Fredoka', sans-serif;
+    font-size: 40px;
+    padding: 10%;
+    margin-top: 0px;
+}
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+  }
+  
+  /* Add a hover effect if you want */
+  .fa:hover {
+    opacity: 0.7;
+  }
+  
+  /* Set a specific color for each brand */
+  
+  /* Facebook */
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+    padding: 5px;
+    height: 0px;
+    width: 10px;
+  }
+  
+  /* Twitter */
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+    padding: 5px;
+    height: 0px;
+    width: 10px;
+  }
+
+  .fa-linkedin {
+    background: #007bb5;
+    color: white;
+    padding: 5px;
+    height: 0px;
+    width: 10px;
+  }
+
+  .fa-instagram {
+    background: #f8058b;
+    color: white;
+    padding: 5px;
+    height: 0px;
+    width: 10px;
+  }
+
+  .fa-google {
+    background: #ffffff;
+    color: rgb(238, 70, 70);
+    padding: 7px;
+    height: 0px;
+    width: 10px;
+  }
+
+  .social_media{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 0%;
+    margin-right: 0px;
+    margin: 0px;
+    padding-left: 0px;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding: 0px;
+    height: 0px;
+  }
+
+  .btn {
+    background-color: rgb(6, 143, 35);
+    border: none;
+    color: white;
+    padding: 12px 30px;
+    cursor: pointer;
+    font-size: 20px;
+  }
+  
+  /* Darker background on mouse-over */
+  .btn:hover {
+    background-color: rgb(14, 250, 238);
+    color: black;
+  }
+
+  .containerskil {
+    width: 100%; /* Full width */
+    background-color: #ddd; /* Grey background */
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 0%;
+    margin-right: 0px;
+    margin: 0px;
+    padding-left: 0px;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding: 0px;
+  }
+  
+
+  .mainrr {
+
+    font-family: 'Fredoka', sans-serif;
+   padding-bottom: 400px ;
+   margin-top: -90px;
+   margin-left: 481px;
+}
+  .skills {
+    text-align: right; /* Right-align text */
+    padding-top: 10px; /* Add top padding */
+    padding-bottom: 10px; /* Add bottom padding */
+    color: white; /* White text color */
+  }
+
+  .skillset{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 0%;
+    margin-right: 0px;
+    margin: 0px;
+    padding-left: 0px;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding: 0px;
+    position: relative;
+
+  }
+  
+  .html {width: 75%; background-color: #08d32a;} /* Green */
+  .css {width: 35%; background-color: #f32f21;} /* Blue */
+  .js {width: 50%; background-color: #1488e7;} /* Red */
+  .php {width: 40%; background-color: #e2f020;} /* Dark Grey */
+  .exc {width: 85%; background-color: #7e03e2;} /* Dark Grey */
